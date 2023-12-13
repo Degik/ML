@@ -1,0 +1,6 @@
+Hidden_size:4, Learning-rate:0.074, Accuracy: 0.7130
+Hidden_size:4, Learning-rate:0.077, Accuracy: 1.0000
+Hidden_size:4, Learning-rate:0.08, Accuracy: 0.7662
+Hidden_size:4, Learning-rate:0.083, Accuracy: 0.8588
+Hidden_size:4, Learning-rate:0.086, Accuracy: 0.9282
+Hidden_size:4, Learning-rate:0.089, Accuracy: 1.0000
